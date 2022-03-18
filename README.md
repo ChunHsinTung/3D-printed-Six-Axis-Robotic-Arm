@@ -12,3 +12,6 @@ This robotic arm was developed as a final project for high school.
 - Paper: the paper that was required for this project, in Dutch.
 - The STL and DXF files can be found in the release (the files are too big for GitHub) or here: 
 
+# Pictures and videos
+
+See https://photos.app.goo.gl/QDrwJVek35PyC75j9 for actual pictures and videos of the project.
